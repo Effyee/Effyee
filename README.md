@@ -8,6 +8,3 @@
      
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgayeob7877&count_bg=%23E9B4DF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-[!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=gayeon7877&theme=nord&hide_border=true&count_private=true)](https://github.com/gayeon7877/github-readme-stats)
- 
