@@ -1,13 +1,6 @@
-### 🌟 About Me  
-<div style="font-size: 14px; color: #555555;">
-    <p>
-        ML Engineer를 희망하며 자연어 처리(NLP)를 중점적으로 공부하고 있는 학생입니다.<br>
-        AI와 SW 프로젝트를 통해 꾸준히 성장하며 다양한 도메인에서 지식을 확장하고 있습니다.
-    </p>
-</div>
 
-
-
+ML Engineer를 희망하며 자연어 처리를 중점적으로 공부하고 있는 학생입니다🌟
+     
 ### Projects
 #### 🤖 AI 프로젝트
 - [수능형 문제 풀이 모델 생성 프로젝트](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-02-lv3)  
@@ -38,9 +31,3 @@
 <!--
 ![effy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayeon7877&show_icons=true&theme=aura_dark)
 -->
-
-<div style="text-align: center; margin-bottom: 20px;">
-    <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/farms/gayeon7877" width="400" height="300" alt="Gitanimals"/>
-    </a>
-</div>
