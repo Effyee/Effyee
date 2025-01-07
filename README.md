@@ -5,23 +5,17 @@
 </div>
 
 #### 🌟 About Me  
-ML Engineer를 희망하며 자연어 처리(NLP)를 중점적으로 공부하고 있는 학생입니다.  
-AI와 SW 프로젝트를 통해 꾸준히 성장하며 다양한 도메인에서 지식을 확장하고 있습니다.
+<div style="font-size: 14px; color: #555555;">
+    <p>
+        ML Engineer를 희망하며 자연어 처리(NLP)를 중점적으로 공부하고 있는 학생입니다.<br>
+        AI와 SW 프로젝트를 통해 꾸준히 성장하며 다양한 도메인에서 지식을 확장하고 있습니다.
+    </p>
+</div>
 
 ---
 
 #### Projects
-##### 🤖 AI 프로젝트
-- [**수능형 문제 풀이 모델 생성 프로젝트**](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-02-lv3)  
-  수능 스타일의 문제 풀이를 위한 자연어 처리 모델 개발
 
-- [**ODQA 프로젝트**](https://github.com/boostcampaitech7/level2-mrc-nlp-04)  
-  Open-Domain Question Answering 시스템 개발 프로젝트
-
-- [**문장 간 유사도 측정(STS) 프로젝트**](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-04)  
-  문장 간 의미적 유사도를 평가하는 모델 구축 프로젝트
-
----
 ##### 🎮 SW 프로젝트
 - [**이제는 상품 말고 경험을 선물하세요, 셸위**](https://github.com/ShallWeProject)  
   사용자 경험을 선물로 제공하는 플랫폼 개발 프로젝트
@@ -31,6 +25,18 @@ AI와 SW 프로젝트를 통해 꾸준히 성장하며 다양한 도메인에서
 
 - [**집에 잠든 개인용기로 동네를 깨우다, 패킷**](https://github.com/PackItProject/PACK_IT_Server)  
   개인 용기를 활용한 환경친화적 지역 서비스 개발 프로젝트
+
+---
+
+##### 🤖 AI 프로젝트
+- [**수능형 문제 풀이 모델 생성 프로젝트**](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-02-lv3)  
+  수능 스타일의 문제 풀이를 위한 자연어 처리 모델 개발
+
+- [**ODQA 프로젝트**](https://github.com/boostcampaitech7/level2-mrc-nlp-04)  
+  Open-Domain Question Answering 시스템 개발 프로젝트
+
+- [**문장 간 유사도 측정(STS) 프로젝트**](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-04)  
+  문장 간 의미적 유사도를 평가하는 모델 구축 프로젝트
 
 ---
 
