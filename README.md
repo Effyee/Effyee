@@ -3,8 +3,9 @@ ML Engineer를 희망하며 자연어 처리를 중점적으로 공부하고 있
      
 ### Projects
 #### 🤖 AI 프로젝트
-- [수능형 문제 풀이 모델 생성 프로젝트](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-02-lv3)  
-- [ODQA 프로젝트](https://github.com/boostcampaitech7/level2-mrc-nlp-04)  
+- [수능형 문제 풀이 모델 생성 프로젝트](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-02-lv3)
+- [Data Centric 프로젝트](https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-04)
+- [ODQA 프로젝트](https://github.com/boostcampaitech7/level2-mrc-nlp-04)
 - [문장 간 유사도 측정(STS) 프로젝트](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-04)  
 
 #### 🎮 SW 프로젝트
@@ -26,7 +27,7 @@ ML Engineer를 희망하며 자연어 처리를 중점적으로 공부하고 있
 > | 2022.09 ~ 2023.08   | 대학생 앱 런칭 IT 연합동아리 UMC 3기         | Android 스터디원   |
 > | 2022.03 ~ 2022.08   | Coding Stage                              | Server 부원        |
 > | 2022.03 ~ 2022.08   | 이화여자대학교 중앙동아리 ECC              | Android 스터디장   |
-> | 2019.03 ~ 2019.09   | 이화여자대학교 공식 응원단 PYRUS            | 부원               |
+> | 2019.03 ~ 2020.02   | 이화여자대학교 공식 응원단 PYRUS            | 부원               |
 
 <!--
 ![effy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayeon7877&show_icons=true&theme=aura_dark)
