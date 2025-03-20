@@ -1,6 +1,7 @@
 
 ML Engineer를 희망하며 자연어 처리를 중점적으로 공부하고 있는 학생입니다🌟
-     
+
+
 ### Projects
 #### 🤖 AI 프로젝트
 - [수능형 문제 풀이 모델 생성 프로젝트](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-02-lv3)
@@ -29,6 +30,7 @@ ML Engineer를 희망하며 자연어 처리를 중점적으로 공부하고 있
 > | 2022.03 ~ 2022.08   | 이화여자대학교 중앙동아리 ECC              | Android 스터디장   |
 > | 2019.03 ~ 2020.02   | 이화여자대학교 공식 응원단 PYRUS            | 부원               |
 
-<!--
-![effy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayeon7877&show_icons=true&theme=aura_dark)
--->
+![effy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayeon7877&show_icons=true&theme=aura_dark)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gayean01)](https://solved.ac/gayean01/) 
+
+
+
