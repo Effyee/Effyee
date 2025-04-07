@@ -12,7 +12,7 @@ ML Engineer를 희망하며 자연어 처리를 중점적으로 공부하고 있
 #### 🎮 SW 프로젝트
 - [이제는 상품 말고 경험을 선물하세요, 셸위](https://github.com/ShallWeProject)  
 - [이젠 옷도 당일 픽업, PICKLE](https://github.com/pick-PICKLE)  
-- [집에 잠든 개인용기로 동네를 깨우다, 패킷](https://github.com/PackItProject/PACK_IT_Server)  
+- [집에 잠든 개인용기로 동네를 깨우다, 패킷](https://github.com/gayeon7877/Pack_it)
 
 
 #### 🏃 해커톤 프로젝트
