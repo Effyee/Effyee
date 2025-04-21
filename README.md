@@ -24,9 +24,9 @@
 > | 2024.08 ~ 2025.02   | 네이버 부스트 캠프 AI Tech (NLP파트)        | 캠퍼               |
 > | 2023.08 ~ 2024.02   | 대학생 앱 런칭 IT 연합동아리 UMC 4기         | Server 스터디장    |
 > | 2022.09 ~ 2023.08   | 대학생 앱 런칭 IT 연합동아리 UMC 3기         | Android 스터디원   |
-> | 2022.03 ~ 2022.08   | Coding Stage                              | Server 부원        |
-> | 2022.03 ~ 2022.08   | 이화여자대학교 중앙동아리 ECC              | Android 스터디장   |
-> | 2019.03 ~ 2020.02   | 이화여자대학교 공식 응원단 PYRUS            | 부원               |
+> | 2022.03 ~ 2022.08   | Coding Stage                               | Server 부원        |
+> | 2022.03 ~ 2022.08   | IT 중앙동아리                               | Android 스터디장   |
+> | 2019.03 ~ 2020.02   | 대학교 공식 응원단                           | 부원               |
 
 ![effy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayeon7877&show_icons=true&theme=aura_dark)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gayean01)](https://solved.ac/gayean01/) 
 
