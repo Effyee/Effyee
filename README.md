@@ -28,7 +28,7 @@
 > | 2022.03 ~ 2022.08   | IT 중앙동아리                               | Android 스터디장   |
 > | 2019.03 ~ 2020.02   | 대학교 공식 응원단                           | 부원               |
 
-![effy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayeon7877&show_icons=true&theme=aura_dark)  
+![effy's GitHub stats](https://github-readme-stats.vercel.app/api?username=effyee&show_icons=true&theme=aura_dark)  
 
 
 
