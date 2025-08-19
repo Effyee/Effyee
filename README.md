@@ -31,4 +31,6 @@
 ![effy's GitHub stats](https://github-readme-stats.vercel.app/api?username=effyee&show_icons=true&theme=aura_dark)  
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gayean01)](https://solved.ac/gayean01/)
+
 
